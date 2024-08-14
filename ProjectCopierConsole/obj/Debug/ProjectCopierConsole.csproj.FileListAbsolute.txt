@@ -1,0 +1,7 @@
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\bin\Debug\ProjectCopierConsole.exe.config
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\bin\Debug\ProjectCopierConsole.exe
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\bin\Debug\ProjectCopierConsole.pdb
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\obj\Debug\ProjectCopierConsole.csproj.AssemblyReference.cache
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\obj\Debug\ProjectCopierConsole.csproj.CoreCompileInputs.cache
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\obj\Debug\ProjectCopierConsole.exe
+C:\Users\perih\source\repos\ProjectCopierConsole\ProjectCopierConsole\obj\Debug\ProjectCopierConsole.pdb
